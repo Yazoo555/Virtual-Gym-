@@ -6,7 +6,7 @@ A comprehensive virtual reality gym simulation built with Unity, featuring inter
 
 ### Equipment Interaction
 - **E Key**: Interact with equipment when close to them
-- **I Key**: Additional interaction with models and equipment
+- **I Key**: Additional interaction with equipment
 
 ### Vehicle System
 - **Raycasting**: Implemented for cars and vehicles
