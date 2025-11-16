@@ -55,7 +55,7 @@ A comprehensive virtual reality gym simulation built with Unity, featuring inter
 **Engine**: Unity  
 **Scripting**: C#  
 **Assets**: Mixamo characters and animations (free)  
-**Platform**: VR/Desktop ready
+
 
 ## 🎯 How to Play
 
