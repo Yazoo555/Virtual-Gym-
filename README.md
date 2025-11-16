@@ -65,4 +65,9 @@ A comprehensive virtual reality gym simulation built with Unity, featuring inter
 4. **Vehicle areas** - cars will automatically stop for you
 5. **Explore** different workout zones
 
-## 📁 Project Structure
+
+## 🎮 Play Now!
+
+[![Play on itch.io](https://img.shields.io/badge/Play%20On-itch.io-orange?style=for-the-badge&logo=itch.io)](https://madducky.itch.io/virtual-gym-tour?secret=3n1PPUlOWb6OdRE4W8y8L8m1AY)
+
+**Live Demo Available**: Experience the full game on itch.io!
