@@ -1,0 +1,68 @@
+# Virtual Gym - Unity VR Fitness Experience
+
+A comprehensive virtual reality gym simulation built with Unity, featuring interactive equipment, character models, and realistic workout environments.
+
+## 🎮 Controls & Interaction
+
+### Equipment Interaction
+- **E Key**: Interact with equipment when close to them
+- **I Key**: Additional interaction with models and equipment
+
+### Vehicle System
+- **Raycasting**: Implemented for cars and vehicles
+- **Waypoint Manager**: Vehicles stop when you stand in front of them
+- **Smart Detection**: Automatic vehicle behavior adjustment based on player position
+
+### Basic Movement
+- **W, A, S, D**: Character movement
+- **Mouse**: Look around
+- **Space**: Jump
+
+## 🏋️‍♂️ Features
+
+### Interactive Equipment
+- Fully functional gym equipment
+- Realistic physics-based interactions
+- Multiple exercise stations
+- Press E when close to interact
+
+### Character System
+- **Character Models & Animations**: From Mixamo (Adobe) - completely free
+- Professional motion-captured animations
+- Multiple character options
+- Smooth animation blending
+
+### Advanced AI Systems
+- **Vehicle Raycasting**: Cars detect player presence
+- **Waypoint Management**: Controlled vehicle navigation
+- **Automatic Stopping**: Vehicles stop when player blocks path
+
+## 🚗 Technical Implementation
+
+### Interaction System
+- Context-aware E/I key mapping
+- Raycast-based proximity detection
+- Expandable interaction framework
+
+### Vehicle AI
+- Waypoint-based navigation
+- Player detection using raycasting
+- Dynamic stopping behavior
+- Configurable detection ranges
+
+## 🛠️ Project Details
+
+**Engine**: Unity  
+**Scripting**: C#  
+**Assets**: Mixamo characters and animations (free)  
+**Platform**: VR/Desktop ready
+
+## 🎯 How to Play
+
+1. **Navigate** the gym using standard controls
+2. **Approach equipment** and press `E` to interact
+3. **Use I key** for additional model interactions
+4. **Vehicle areas** - cars will automatically stop for you
+5. **Explore** different workout zones
+
+## 📁 Project Structure
