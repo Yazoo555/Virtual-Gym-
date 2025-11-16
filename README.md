@@ -56,6 +56,15 @@ A comprehensive virtual reality gym simulation built with Unity, featuring inter
 **Scripting**: C#  
 **Assets**: Mixamo characters and animations (free)  
 
+## 🙏 Acknowledgements
+
+This project is built upon the excellent work of **dimchor**'s Virtual Gym project. Special thanks to the original creator for the foundation:
+
+- **Original Project**: [dimchor/virtual-gym](https://github.com/dimchor/virtual-gym)
+- **Credit**: This project extends and modifies the original Virtual Gym codebase
+- **Appreciation**: Thank you to dimchor for creating and sharing the initial implementation
+
+
 
 ## 🎯 How to Play
 
