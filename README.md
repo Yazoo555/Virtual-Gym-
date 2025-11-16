@@ -61,7 +61,7 @@ A comprehensive virtual reality gym simulation built with Unity, featuring inter
 
 1. **Navigate** the gym using standard controls
 2. **Approach equipment** and press `E` to interact
-3. **Use I key** for additional model interactions
+3. **Use I key** for equipment interactions
 4. **Vehicle areas** - cars will automatically stop for you
 5. **Explore** different workout zones
 
