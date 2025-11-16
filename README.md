@@ -1,4 +1,4 @@
-# Virtual Gym - Unity VR Fitness Experience
+# Virtual Gym - Unity Fitness Experience
 
 A comprehensive virtual reality gym simulation built with Unity, featuring interactive equipment, character models, and realistic workout environments.
 
